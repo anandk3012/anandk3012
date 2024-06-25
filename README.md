@@ -2,7 +2,7 @@
 - 🌏 I'm based in Hyderabad, India.
 - 💞️ I’m looking to collaborate on reactjs projects
 - 🌱 I’m currently learning machine learning
-- 📫 You can check out more about me at [ ...](https://anandkurella.netlify.app/)
+- 📫 You can check out more about me at [anand.me](https://anandkurella.netlify.app/)
 
 
 <!---

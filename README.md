@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @anandk3012
-- 👀 I’m interested in webdev, ml and anime
-- 🌱 I’m currently learning machine learning
+- 👋 Hi, I’m Anand k
+- 🌏 I'm based in Hyderabad, India.
 - 💞️ I’m looking to collaborate on reactjs projects
+- 🌱 I’m currently learning machine learning
 - 📫 You can check out more about me at [ ...](https://anandkurella.netlify.app/)
 
 

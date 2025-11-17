@@ -15,27 +15,16 @@
 
 ## Research Interests
 - Quantum algorithms (Grover variants, VQA, QAOA, pattern-based optimization)
-- Quantum cryptanalysis (symmetric ciphers, QUBO formulations, quantum annealing)
+- Quantum machine Learning, Quantum Error Coerrection
 - Variational methods (CVaR objectives, local search, NFT)
-- Computational physics & open quantum systems
-- Machine learning for authentication and anomaly detection
-- Retrieval-Augmented Generation systems for scientific workflows
-
----
-
-## Current Work
-- Quantum Portfolio Optimization (QML & heuristics)
-- S-DES using VQA (paper in progress)
-- Bayesian keystroke-dynamics authentication
-- Local quantum research assistant (LangChain + Ollama + Flask + React)
-- CPU-optimized RAG indexing for Qiskit documentation
+- Retrieval-Augmented Generation & Multi agentic workflows 
 
 ---
 
 ## Tools & Environment
-**Quantum:** Qiskit • Cirq • D-Wave Ocean • PennyLane  
+**Quantum:** Qiskit • PennyLane  
 **ML:** PyTorch • NumPy • SciPy • scikit-learn  
-**Scientific:** MATLAB • LaTeX • Monte-Carlo simulation tools  
+**Scientific:** MATLAB • Julia 
 **Systems:** Linux • Docker • SLURM • Git  
 **Dev:** React • Flask • Tailwind • Streamlit  
 
@@ -59,7 +48,7 @@
 
 ## Contact
 **GitHub:** https://github.com/anandk3012  
-**LinkedIn:** *(https://www.linkedin.com/in/anandkasyup/)*  
+**LinkedIn:** *https://www.linkedin.com/in/anandkasyup/*  
 **Email:** *anandkash99@gmail.com*  
 
 ---

@@ -59,8 +59,8 @@
 
 ## Contact
 **GitHub:** https://github.com/anandk3012  
-**LinkedIn:** *your-link-here*  
-**Email:** *your-email-here*  
+**LinkedIn:** *(https://www.linkedin.com/in/anandkasyup/)*  
+**Email:** *anandkash99@gmail.com*  
 
 ---
 

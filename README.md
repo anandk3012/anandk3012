@@ -1,35 +1,71 @@
-<h1 align="center">Hi, I'm Anand</h1>
-<h3 align="center">Quantum Computing • Machine Learning • Physics • Full-Stack Engineering</h3>
+<h1 align="center">Anand</h1>
+<h3 align="center">Quantum Computing • Physics • Machine Learning • Cryptography</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anandk3012&label=Views&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=anandk3012&label=Profile%20Views&color=grey&style=flat" />
 </p>
 
 ---
 
-### About Me
-- Quantum computing researcher (optimization, cryptography, variational algorithms)  
-- ML practitioner (Bayesian inference, authentication models, generative AI)  
-- Full-stack developer (React • Flask • LangChain • Docker)  
-- Interested in optimization, cryptography, and AI-augmented research tools  
-
----
-
-### Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anandk3012&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anandk3012&theme=tokyonight" height="160"/>
+  <img width="420" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif"/>
 </div>
 
 ---
 
-### Tools & Technologies
-**Quantum:** Qiskit • D-Wave • Cirq  
-**AI/ML:** PyTorch • NumPy • scikit-learn • SciPy  
-**Web:** React • Flask • Tailwind  
-**Infra:** Docker • Git • Linux  
+## Research Interests
+- Quantum algorithms (Grover variants, VQA, QAOA, pattern-based optimization)
+- Quantum cryptanalysis (symmetric ciphers, QUBO formulations, quantum annealing)
+- Variational methods (CVaR objectives, local search, NFT)
+- Computational physics & open quantum systems
+- Machine learning for authentication and anomaly detection
+- Retrieval-Augmented Generation systems for scientific workflows
 
 ---
 
-### Connect
-[LinkedIn](#) • [Instagram](#) • [StackOverflow](#) • [GitHub](https://github.com/anandk3012)
+## Current Work
+- Quantum Portfolio Optimization (QML & heuristics)
+- S-DES using VQA (paper in progress)
+- Bayesian keystroke-dynamics authentication
+- Local quantum research assistant (LangChain + Ollama + Flask + React)
+- CPU-optimized RAG indexing for Qiskit documentation
+
+---
+
+## Tools & Environment
+**Quantum:** Qiskit • Cirq • D-Wave Ocean • PennyLane  
+**ML:** PyTorch • NumPy • SciPy • scikit-learn  
+**Scientific:** MATLAB • LaTeX • Monte-Carlo simulation tools  
+**Systems:** Linux • Docker • SLURM • Git  
+**Dev:** React • Flask • Tailwind • Streamlit  
+
+---
+
+## GitHub Metrics
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=anandk3012&show_icons=true&theme=dark"/>
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=anandk3012&theme=dark"/>
+</div>
+
+---
+
+## Selected Themes of Inquiry  
+> **“In the limit of computation, the boundary between physics and information dissolves.”**  
+>  
+> Quantum complexity • Variational landscapes • Error-correcting structures  
+> Statistical inference • Cryptographic hardness • Optimization under noise  
+
+---
+
+## Contact
+**GitHub:** https://github.com/anandk3012  
+**LinkedIn:** *your-link-here*  
+**Email:** *your-email-here*  
+
+---
+
+<p align="center">
+  <img width="280" src="https://i.imgur.com/4M7IWwP.gif"/>
+</p>
+
+<h3 align="center">“Nullius in verba.” — Take nobody’s word for it.</h3>

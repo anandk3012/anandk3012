@@ -18,7 +18,7 @@
 <li>🧠 Interested in: <strong>Quantum Optimization, Cryptography, Qiskit Patterns, ML for Authentication</strong></li>
 
 <li>👨‍💻 All my work lives here:  
-<a href="https://github.com/anand-iith">GitHub</a></li>
+<a href="https://github.com/anandk3012">GitHub</a></li>
 
 <li>💬 Ask me about: <strong>Qiskit, Variational Algorithms, RAG, LangChain, Bayesian Inference, React+Flask</strong></li>
 
@@ -31,7 +31,7 @@
 ---
 
 <div align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anand-iith&show_icons=true&locale=en&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anandk3012&show_icons=true&locale=en&theme=tokyonight" />
 </div>
 
 <br><br>
@@ -42,10 +42,10 @@
 <table style="width: 100%; border:0px solid #0D1117;">
   <tr style="border:0px solid #0D1117;">
     <td style="width: 50%; text-align: left; padding: 0;border:0px solid #0D1117;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anand-iith&layout=compact&theme=tokyonight" style="display:block;max-width:100%;height:auto;margin:0;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandk3012&layout=compact&theme=tokyonight" style="display:block;max-width:100%;height:auto;margin:0;">
     </td>
     <td style="width: 50%; text-align: right; padding: 0;border:0px solid #0D1117;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=anand-iith&theme=tokyonight" style="display:block;max-width:100%;height:auto;margin:0;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=anandk3012&theme=tokyonight" style="display:block;max-width:100%;height:auto;margin:0;">
     </td>
   </tr>
 </table>

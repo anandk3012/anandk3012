@@ -2,14 +2,8 @@
 <h3 align="center">Quantum Computing • Physics • Machine Learning • Cryptography</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anandk3012&label=Profile%20Views&color=grey&style=flat" />
+  <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg" width="30%"/>
 </p>
-
----
-
-<div align="center">
-  <img width="420" src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif"/>
-</div>
 
 ---
 
@@ -52,9 +46,5 @@
 **Email:** *anandkash99@gmail.com*  
 
 ---
-
-<p align="center">
-  <img width="280" src="https://i.imgur.com/4M7IWwP.gif"/>
-</p>
 
 <h3 align="center">“Nullius in verba.” — Take nobody’s word for it.</h3>
